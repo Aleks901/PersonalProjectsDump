@@ -5,6 +5,9 @@ A collection of short / long personal projects I've done in my spare time for fu
 In the crawler project folder you'll find a webcrawler I made to scrape food recipes off of Matprat.no a well known recipe site.
 It's very simple in nature, could probably use better error handling, logging and a list of already crawled sites but I honestly just wanted to test the beautiful soup library.
 
+<img width="350" height="378" alt="bilde" src="https://github.com/user-attachments/assets/346a29c8-7c79-453f-b4c4-5fe370751c39" />
+
+
 ### Pygame Projects
 In Pygame projects you'll find some game "challenges" i've made myself.
 Usually what'll happen is I'll think back to a game I've played and I think to myself:
