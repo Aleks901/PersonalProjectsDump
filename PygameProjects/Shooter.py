@@ -93,7 +93,10 @@ while running:
         player.shoot()
         last_shot_time = current_time
 
-
+    if player.x < 0:
+        player.x += 800
+    elif player.x > 800:
+        player.x -= 800
 
     for b in bullets_on_screen[:]:
         b.y -= b.speed
