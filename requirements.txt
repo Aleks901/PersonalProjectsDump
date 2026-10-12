@@ -1,0 +1,7 @@
+# PygameProjects
+pygame-ce
+
+# CrawlerProject
+beautifulsoup4
+requests
+rich
